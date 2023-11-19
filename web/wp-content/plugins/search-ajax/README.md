@@ -15,7 +15,6 @@ Cuando activas por primera vez el plugin te crea un Custom Post Type `Usuarios` 
 
 También he creado un shortcode para poder mostrar la tabla con el buscador Ajax en la home de la web.
 
-
 Toda la funcionalidad se encuentra en el fichero `search-ajax.php` dentro de la carpeta del módulo.
 
 
