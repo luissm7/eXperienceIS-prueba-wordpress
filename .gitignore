@@ -14,7 +14,7 @@ mariadb/
 mariadb-init/
 !.env
 .htaccess
-docker-compose.override.yml
+!docker-compose.override.yml
 node_modules/
 *.lock
 Dockerfile-gulp
