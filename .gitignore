@@ -120,3 +120,5 @@ Thumbs.db
 # SASS #
 ##########
 .sass-cache
+
+!bbdd-prueba-tecnica-experienceIT.sql
